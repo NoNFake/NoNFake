@@ -3,7 +3,7 @@
 ##
 <div align="center">
 
-<img src='https://github.com/NoNFake/NoNFake/blob/main/img/GithubPrifile_v2.png' width=67% alt="profile">
+<!-- <img src='https://github.com/NoNFake/NoNFake/blob/main/img/GithubPrifile_v2.png' width=67% alt="profile"> -->
 
 
 ## Github stats
