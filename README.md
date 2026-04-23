@@ -1,9 +1,9 @@
+# NoNFake | Python & Arch Linux Developer
 > [!NOTE]\
-> Hello
+> Python Developer focused on asynchronous programming (asyncio, aiohttp) <br>
+> Enthusiast of Arch Linux and local LLM inference (llama.cpp)
 ##
 <div align="center">
-
-<!-- <img src='https://github.com/NoNFake/NoNFake/blob/main/img/GithubPrifile_v2.png' width=67% alt="profile"> -->
 
 
 ## Github stats
